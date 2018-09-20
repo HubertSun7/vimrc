@@ -1,0 +1,3 @@
+
+# basic setting
+set number
